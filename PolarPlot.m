@@ -8,7 +8,7 @@
 % Project       : Monakons UGV_Autonomus_Robot
 % File          : PolarPlot.m
 % Description   : This code plots what the robot sees infront of it
-% Author        : Monahopoulos Konstantinos
+% Author        : Monachopoulos Konstantinos
 %--------------------------------------------------------------------------------------------------------------------------------
 %%
 

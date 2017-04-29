@@ -8,7 +8,7 @@ Technological Educational Institute of Athens - Xbee mini-project
 Project       : Monakons UGV_Autonomus_Robot
 File          : Monakons-UGV-radar-robot.ino
 Description   : This code implements UGV basic Code
-Author        : Monahopoulos Konstantinos
+Author        : Monachopoulos Konstantinos
 -------------------------------------------------------------------------------------------------------------------------------
 */
 

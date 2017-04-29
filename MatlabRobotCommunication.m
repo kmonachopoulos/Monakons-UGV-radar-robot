@@ -8,7 +8,7 @@
 % Project       : Monakons-UGV-Autonomus_Robot
 % File          : MatlabRobotCommunication.m
 % Description   : This code implements sets the communication parameters of arduino and matlab through a Serial port
-% Author        : Monahopoulos Konstantinos
+% Author        : Monachopoulos Konstantinos
 %--------------------------------------------------------------------------------------------------------------------------------
 %%
 
